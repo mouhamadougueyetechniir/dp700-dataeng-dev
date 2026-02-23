@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "dp700_deployment_pipeline_notebook"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "dfc821cb-afa9-a1c1-454f-30df9319f235"
+  }
+}
